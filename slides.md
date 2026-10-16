@@ -1,27 +1,25 @@
 ---
 # try also 'default' to start simple
-theme: seriph
+theme: slidev-theme-tahta
+themeConfig: { variant: signal }
 # random image from a curated Unsplash collection by Anthony
 # like them? see https://unsplash.com/collections/94734566/slidev
 background: https://cover.sli.dev
 # some information about your slides (markdown enabled)
-title: Welcome to Slidev
+title: 'LARPing as an Extrovert: A practical guide to networking, small talk, and other social side quests'
 info: |
   ## Slidev Starter Template
   Presentation slides for developers.
 
   Learn more at [Sli.dev](https://sli.dev)
+author: Meg Gutshall
+
 # apply UnoCSS classes to the current slide
 class: text-center
-# https://sli.dev/features/drawing
-drawings:
-  persist: false
 # slide transition: https://sli.dev/guide/animations.html#slide-transitions
 transition: slide-left
 # enable Comark Syntax: https://comark.dev/syntax/markdown
 comark: true
-# duration of the presentation
-duration: 35min
 ---
 
 # Welcome to Slidev
@@ -46,6 +44,7 @@ The last comment block of each slide will be treated as slide notes. It will be 
 -->
 
 ---
+
 transition: fade-out
 ---
 
@@ -61,6 +60,7 @@ Slidev is a slides maker and presenter designed for developers, consist of the f
 - 📤 **Portable** - export to PDF, PPTX, PNGs, or even a hostable SPA
 - 🛠 **Hackable** - virtually anything that's possible on a webpage is possible in Slidev
 <br>
+
 <br>
 
 Read more about [Why Slidev?](https://sli.dev/guide/why)
@@ -87,6 +87,7 @@ Here is another comment.
 -->
 
 ---
+
 transition: slide-up
 level: 2
 ---
@@ -114,6 +115,7 @@ Hover on the bottom-left corner to see the navigation's controls panel, [learn m
 <p v-after class="absolute bottom-23 left-45 opacity-30 transform -rotate-10">Here!</p>
 
 ---
+
 layout: two-cols
 layoutClass: gap-16
 ---
@@ -133,8 +135,9 @@ The title will be inferred from your slide content, or you can override it with 
 <Toc text-sm minDepth="1" maxDepth="2" />
 
 ---
+
 layout: image-right
-image: https://cover.sli.dev
+image: <https://cover.sli.dev>
 ---
 
 # Code
@@ -186,6 +189,7 @@ Notes can also sync with clicks
 -->
 
 ---
+
 level: 2
 ---
 
@@ -302,6 +306,7 @@ Also, HTML elements are valid:
 -->
 
 ---
+
 class: px-20
 ---
 
@@ -575,6 +580,7 @@ database "MySql" {
 Learn more: [Mermaid Diagrams](https://sli.dev/features/mermaid) and [PlantUML Diagrams](https://sli.dev/features/plantuml)
 
 ---
+
 foo: bar
 dragPos:
   square: 691,32,167,_,-16
@@ -620,6 +626,7 @@ Double-click on the draggable elements to edit their positions.
 <v-drag-arrow pos="67,452,253,46" two-way op70 />
 
 ---
+
 src: ./pages/imported-slides.md
 hide: false
 ---
@@ -651,6 +658,7 @@ console.log(emptyArray<number>(10).reduce(fib => [...fib, fib.at(-1)! + fib.at(-
 ```
 
 ---
+
 layout: center
 class: text-center
 ---
