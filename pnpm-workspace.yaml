@@ -6,7 +6,3 @@ shamefullyHoist: true
 allowBuilds:
   playwright-chromium: true
   sharp: false
-
-permissions:
-  '@slidev/cli':
-    skills: true
