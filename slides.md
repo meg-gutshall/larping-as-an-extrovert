@@ -71,14 +71,14 @@ title: How to get <span class="accent2">comfortable</span> with being <span clas
 items:
   - { topic: Where to start, desc: Nervous about networking? There are plenty of opportunities! Let's find a fit that's right for you. }
   - { topic: What to say, desc: "You've made it to a conference or event full of people. Now, what the heck do you talk about?" }
-  - { topic: When to retreat, desc: Conserve your social battery and still have a wildly successful experience. It is possible? Can it be? }
+  - { topic: When to retreat, desc: Conserve your social battery and still have a wildly successful experience. Is it possible? Can it be? }
 ---
 
 ---
 layout: lead
 index: 1
 kicker: Social gatherings surround you
-title: Some networking opportunities may be hiding in plain sight
+title: Networking opportunities may be hiding in plain sight
 ---
 
 <!-- Slide comments
@@ -95,7 +95,7 @@ kicker: Prepare ahead of time
 title: Lessen your emotional burden on the day of the event
 features:
   - { icon: "lucide:face-slightly-smiling", title: Find a buddy, desc: "See if you know anyone who is planning to attend the same event, or invite someone along." }
-  - { icon: "lucide:hash", title: Enlist social media, desc: Post about the upcoming event on social media and use their hastags! }
+  - { icon: "lucide:hash", title: Enlist social media, desc: Post on social media about the upcoming event using their hastags! }
   - { icon: "lucide:tram-front", title: Nail down logistics, desc: Figure out your mode of travel ahead of time. }
   - { icon: "lucide:users-round-collaboration", title: Sharing is preparing, desc: "Volunteer your expertise, time, connections, or belongings." }
 ---
@@ -137,6 +137,7 @@ title: Social skills are <span class="accent2"><em>SKILLS!</em></span>
 
 ---
 layout: columns
+bg: aurora
 kicker: Conversation strategies
 title: Some tips and tricks to hit it off with anyone
 columns:
@@ -149,6 +150,7 @@ columns:
   Remembering a name:
     Whatever you have to do to get that name to stick, do it!
     Everyone forgets names. Just make a joke about it and then remember it.
+    Make sure YOUR name tag is legible and front-facing.
   Including others:
     Some people are there with a significant other (but don't make an assumption).
     Some people get excited and talk over others. It's not that big of a deal unless it's repeatedly or on purpose – then something needs to be said.
@@ -191,3 +193,11 @@ title: Now go out there and slay those social scaries!
 subtitle: Thank you
 contact: Meg Gutshall · @meg-gutshall · in/meghan-gutshall
 ---
+
+<!-- Slide comments
+  Bonus:
+    Create personal business cards
+    Write down notes on the back of business cards in the moment
+    Keep notes in your contacts on your phone to refer back to later
+    Always look to offer help to others with no expectation of quid pro quo – karma will take care of it for you
+-->
