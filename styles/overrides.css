@@ -1,0 +1,4 @@
+/* Override end layout styling */
+.slidev-layout.l-end .kicker::before {
+  display: none;
+}
